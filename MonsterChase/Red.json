@@ -1,0 +1,17 @@
+{
+"name": "Red",
+"initial_position": [0,200],
+"components":
+	{
+		"renderable":
+		{
+			"sprite_texture" : "data\\Red.dds",
+			"scale" : 0.1
+		},
+		"collision":
+		{
+			"centre" : [0,0],
+			"extents" : [64,64]
+		}
+	}
+}

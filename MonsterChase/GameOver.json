@@ -1,0 +1,12 @@
+{
+"name": "GameOver",
+"initial_position": [0,-200],
+"components":
+	{
+		"renderable":
+		{
+			"sprite_texture" : "data\\GameOver.dds"
+		}
+	}
+
+}

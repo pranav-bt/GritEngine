@@ -1,0 +1,23 @@
+{
+"name": "Pranav",
+"initial_position": [300,-200],
+"components":
+	{
+		"physics":
+		{
+			"mass" : 1.0,
+			"force" : [0,0],
+			"accelaration" : [0,0],
+			"velocity" : [0,0]
+		},
+		"renderable":
+		{
+			"sprite_texture" : "data\\GoodGuy.dds"
+		},
+		"collision":
+		{
+			"centre" : [0,0],
+			"extents" : [128,128]
+		}
+	}
+}

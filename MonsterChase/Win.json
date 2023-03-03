@@ -1,0 +1,13 @@
+{
+"name": "Win",
+"initial_position": [0,0],
+"components":
+	{
+		"renderable":
+		{
+			"sprite_texture" : "data\\Win.dds",
+			"scale" : 0.5
+		}
+	}
+
+}

@@ -1,0 +1,25 @@
+{
+"name": "Monster",
+"initial_position": [-50,-50],
+"components":
+	{
+		"physics":
+		{
+			"mass" : 1.0,
+			"force" : [0,0],
+			"accelaration" : [0,0],
+			"velocity" : [0,0]
+		},
+		"renderable":
+		{
+			"sprite_texture" : "data\\BadGuy.dds",
+			"scale" : 0.5
+		},
+		"collision":
+		{
+			"centre" : [-100,150],
+			"extents" : [256,256]
+		}
+	}
+
+}
